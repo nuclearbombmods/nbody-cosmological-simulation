@@ -8,6 +8,10 @@ Empirical Characterization of Numerical Artifacts and Their Structural Correspon
 
 This project investigates how numerical precision affects N-body gravitational physics, demonstrating that quantization artifacts in discrete simulations can produce effects structurally similar to dark matter phenomena.
 
+## Paper
+
+[Conservation Law Violations Cosmological Simulation.pdf](Conservation%20Law%20Violations%20Cosmological%20Simulation.pdf)
+
 ## Features
 
 - GPU-accelerated N-body simulation using PyTorch
